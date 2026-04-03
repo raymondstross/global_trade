@@ -1,0 +1,1 @@
+// Advanced Resource & Depletion System implementation here
